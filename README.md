@@ -1,1 +1,3 @@
-# Landfill-gas-to-energy
+# Landfill-Gas-to-Energy Engine System
+
+The United States is responsible for nearly 20% of worldwide greenhouse gas (GHG) emissions and some fraction of these emissions can be attributed to landfill and waste mismanagement. Much of the gas emitted from landfills can be used in landfill-gas-to-energy projects as fuel to power electricity-generating equipment. West Lake landfill in St. Missouri is aiming to implement an energy generating system to attain benefits from landfill gas produced at their site. West Lake is considered a low-income food desert community; when gas is openly flared without a collection system, the subsurface landfill fires put surrounding communities at risk. A benefit of building a landfill-gas-to-energy project at this site is that it increases the landfill environment safety due to the proper management of the landfill gas.
